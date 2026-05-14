@@ -1,0 +1,13 @@
+name = "RowCanopy"
+uuid = "8ef38e60-f54d-4650-9fcb-8152d7cf01eb"
+authors = ["Alejandro Morales"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.12"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
