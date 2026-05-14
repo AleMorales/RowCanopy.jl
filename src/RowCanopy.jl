@@ -345,4 +345,4 @@ function instantaneous_par_interception(intercrop::StripIntercrop,
     return f_dir, f_dif, f_tot
 end
 
-end\n
+end
